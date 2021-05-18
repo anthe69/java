@@ -1,5 +1,5 @@
 package by.epam.unit02.main;
-
+// папку bin не нужно коммитить, если ты представляешь исходный код
 public class Task01 {
 
 	public static void main(String[] args) {

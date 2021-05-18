@@ -17,5 +17,5 @@ public class Task09 {
 		
 		System.out.println("result = " + r);
 		
-	}	
+	}// Молодец!	
 }
