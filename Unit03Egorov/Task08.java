@@ -62,5 +62,5 @@ public class Task08 {
 				break;
 			}
 		}
-	}
+	}// Молодец. Зачтено
 }
