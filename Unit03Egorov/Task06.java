@@ -8,7 +8,7 @@ public class Task06 {
 
 		int a = 23450;
 		int b = 12367;
-		int temp_a, temp_b;
+		int temp_a, temp_b;// именуем переменные по Java Code Convention
 
 		while (a > 0) {
 			temp_a = a % 10;
